@@ -18,3 +18,7 @@ The earthquake data used in this project is provided by the United States Geolog
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Worked with
+
+Dara Adesina
